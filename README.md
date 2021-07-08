@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lovehlmmm" alt="lovehlmmm" /> </p>
 
-- 🔭 I’m currently working on **NAVISOFT**
+- 🔭 I’m currently working on **VNEXT**
 
 - 📫 How to reach me **work.nguyenanh92@gmail.com**
 
