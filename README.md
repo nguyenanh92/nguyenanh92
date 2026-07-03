@@ -16,7 +16,7 @@
 
 ### 📊 GitHub Stats
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/wakatime?username=nguyenanh92&langs_count=6&theme=ambient_gradient)](https://wakatime.com/@nguyenanh92)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=nguyenanh92&layout=compact&langs_count=4&theme=ambient_gradient)](https://github-stats-extended.vercel.app/api/top-langs?username=nguyenanh92&layout=compact&langs_count=4&theme=ambient_gradient)
 
 ---
 
