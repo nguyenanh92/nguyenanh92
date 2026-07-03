@@ -9,7 +9,7 @@
 
 ### 💫 About Me
 
-- 🔭 I’m currently working on **XXX**
+- 🔭 I’m currently working on **WFH**
 - 📫 How to reach me: **work.nguyenanh92@gmail.com**
 
 ---
