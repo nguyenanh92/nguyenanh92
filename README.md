@@ -10,7 +10,7 @@
 ### 💫 About Me
 
 - 🔭 I’m currently working on **WFH**
-- 📫 How to reach me: **work.nguyenanh92@gmail.com**
+- 📫 How to reach me: **work@nguyenanh98.com**
 
 ---
 
