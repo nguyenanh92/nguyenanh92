@@ -16,9 +16,7 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-stats-extended.vercel.app/api/wakatime?username=nguyenanh92&langs_count=6&theme=ambient_gradient" alt="nguyenanh92's GitHub stats" />
-</p>
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/wakatime?username=nguyenanh92&langs_count=6&theme=ambient_gradient)](https://wakatime.com/@nguyenanh92)
 
 ---
 
