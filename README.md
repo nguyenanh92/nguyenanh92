@@ -1,23 +1,55 @@
 <h1 align="center">Hi 👋, I'm Nguyễn Anh Tuấn</h1>
 <h3 align="center">Web Developer ♥</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lovehlmmm" alt="lovehlmmm" /> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=lovehlmmm&color=blue&style=flat-square" alt="lovehlmmm" />
+</p>
+
+---
+
+### 💫 About Me
 
 - 🔭 I’m currently working on **XXX**
+- 📫 How to reach me: **work.nguyenanh92@gmail.com**
 
-- 📫 How to reach me **work.nguyenanh92@gmail.com**
+---
 
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=lovehlmmm&show_icons=true" alt="lovehlmmm" />
+### 📊 GitHub Stats
 
 <p align="center">
-<a href="https://codepen.io/lovehlmmm" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="lovehlmmm" height="30" width="30" /></a>
-<a href="https://dev.to/lovehlmmm" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="lovehlmmm" height="30" width="30" /></a>
-<a href="https://twitter.com/lovehlmmm" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="lovehlmmm" height="30" width="30" /></a>
-<a href="https://linkedin.com/in/nguyenanh92" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="nguyenanh92" height="30" width="30" /></a>
-<a href="https://stackoverflow.com/users/13822563" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="13822563" height="30" width="30" /></a>
-<a href="https://fb.com/100003997786168" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="100003997786168" height="30" width="30" /></a>
-<a href="https://instagram.com/03rd.jann" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="03rd.jann" height="30" width="30" /></a>
-<a href="https://medium.com/@lovehlmmm" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@lovehlmmm" height="30" width="30" /></a>
-<a href="https://www.youtube.com/c/maximus" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="maximus" height="30" width="30" /></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=lovehlmmm&show_icons=true&theme=gotham&include_all_commits=true&count_private=true" alt="lovehlmmm's GitHub stats" />
+</p>
+
+---
+
+### 🌐 Connect with Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/nguyenanh92" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nguyenanh92" height="30" width="40" />
+  </a>
+  <a href="https://stackoverflow.com/users/13822563" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="13822563" height="30" width="40" />
+  </a>
+  <a href="https://codepen.io/lovehlmmm" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="lovehlmmm" height="30" width="40" />
+  </a>
+  <a href="https://dev.to/lovehlmmm" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="lovehlmmm" height="30" width="40" />
+  </a>
+  <a href="https://twitter.com/lovehlmmm" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lovehlmmm" height="30" width="40" />
+  </a>
+  <a href="https://fb.com/100003997786168" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="100003997786168" height="30" width="40" />
+  </a>
+  <a href="https://instagram.com/03rd.jann" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="03rd.jann" height="30" width="40" />
+  </a>
+  <a href="https://medium.com/@lovehlmmm" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@lovehlmmm" height="30" width="40" />
+  </a>
+  <a href="https://www.youtube.com/c/maximus" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="maximus" height="30" width="40" />
+  </a>
 </p>
